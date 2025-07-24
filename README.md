@@ -74,4 +74,4 @@
 
 [![WhatsApp](https://img.shields.io/badge/+51933759892-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/51933759892?text=Hola,%20estoy%20interesado%20en%20tu%20servicio)</br>
 
- [![WhatsApp](https://img.shields.io/badge/+5194221250-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/5194221250?text=Hola,%20estoy%20interesado%20en%20tu%20servicio)
+ [![WhatsApp](https://img.shields.io/badge/+51942221250-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/51942221250?text=Hola,%20estoy%20interesado%20en%20tu%20servicio)
